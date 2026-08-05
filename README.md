@@ -5,6 +5,7 @@ git clone <this-repository-url>
 cd <repository-name>
 npm i
 ```
+```
 src/
 ├── components/
 │   ├── omni/           # Dashboard-specific components
